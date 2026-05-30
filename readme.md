@@ -79,9 +79,9 @@ ros2 topic pub /controller/cmd_vel geometry_msgs/msg/Twist \
 
 Demo videos:
 
-- <video controls src="src/Video/1_Movement.MOV" title="[Forward movement video](src/Video/1_Movement.MOV)"></video>
+- [Forward movement video](src/Video/1_Movement.MOV)
 
-- <video controls src="src/Video/2_Rotate.MOV" title="[Rotation video](src/Video/2_Rotate.MOV)"></video>
+- [Rotation video](src/Video/2_Rotate.MOV)
 
 ---
 
