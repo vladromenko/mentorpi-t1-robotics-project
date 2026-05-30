@@ -2,6 +2,8 @@
 
 This repository documents my work with the **Hiwonder MentorPi T1** ROS2 tank robot.
 
+![!\[alt text\]](Photo.jpeg)
+
 The project focuses on practical robotics setup: remote access, ROS2 motion control, LiDAR-based SLAM mapping, RViz visualization, and preparation for autonomous navigation.
 
 The goal is not only to run demo commands, but to document the full process of working with a real robot platform: connecting to it, controlling it through ROS2, collecting sensor data, building a map, and identifying the next steps toward navigation.
